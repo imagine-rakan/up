@@ -19,10 +19,10 @@
       "name": "ssc4",
       "url": "https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
       "key": "c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888"
-    },
+    }
+  ],
+  "SSC extra": [
     {
-      ],
-      "SSC extra": [
       "name": "ssc-extra1",
       "url": "https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
       "key": "ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401"
