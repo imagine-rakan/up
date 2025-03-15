@@ -2,7 +2,7 @@
 // 
 
 {
-  "MBC": [
+  "TOD": [
     {
       "name": "Premier League TV",
       "url": "link=https://live-d-02-todtv-db.akamaized.net/variant/v1blackout/spo-hd-39-d-shortdvr/DASH_DASH/Live/channel(spo-hd-37)/manifest.mpd?hdnts=st=1742065465~exp=1742079865~acl=/variant/v1blackout/spo-hd-39-d-shortdvr/*~data=f94f6dde-8579-4e5a-9b6a-a1b6887d3019~hmac=a9b083911e3b82f179395db891cd283b2df538448951638e1092b4bc19574ebc&hdcore=2.11.3",
